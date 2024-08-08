@@ -44,7 +44,7 @@ SIT is a premier institute dedicated to teaching website development and design.
 
 ## Contact Us
 
-- **Address:** Shreyas Vidyalaya
+- **Address:** Shreyas Vidyalaya, Rupali Society, Hirabaug, Surat
 - **Phone:** 9727397356
 - **Email:** sahajanandiot@gmail.com
 
